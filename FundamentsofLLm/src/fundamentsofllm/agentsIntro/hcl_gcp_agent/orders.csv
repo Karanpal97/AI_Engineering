@@ -1,0 +1,13 @@
+order_id,customer,product,category,quantity,unit_price,order_date,city
+1008,Neha Gupta,Headphones,Electronics,1,3500.0,2026-08-23,Bangalore
+1004,Neha Gupta,Keyboard,Electronics,1,2500.0,2026-08-21,Bangalore
+1001,Rahul Sharma,Laptop,Electronics,1,65000.0,2026-08-20,Delhi
+1009,Vikas Verma,Laptop,Electronics,2,62000.0,2026-08-24,Delhi
+1006,Rahul Sharma,Monitor,Electronics,2,18000.0,2026-08-22,Delhi
+1011,Rohit Singh,Keyboard,Electronics,3,2200.0,2026-08-25,Delhi
+1002,Aman Kumar,Mouse,Electronics,2,1200.0,2026-08-20,Mumbai
+1007,Aman Kumar,Table,Furniture,1,9500.0,2026-08-23,Chennai
+1012,Vikas Verma,Desk,Furniture,1,11500.0,2026-08-25,Chennai
+1003,Rohit Singh,Office Chair,Furniture,1,8500.0,2026-08-21,Delhi
+1005,Priya Sharma,Office Desk,Furniture,1,12000.0,2026-08-22,Mumbai
+1010,Priya Sharma,Chair,Furniture,2,7500.0,2026-08-24,Mumbai

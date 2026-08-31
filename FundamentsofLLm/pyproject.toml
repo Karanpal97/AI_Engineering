@@ -8,6 +8,9 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
+    "dotenv>=0.9.9",
+    "google-cloud-bigquery>=3.44.0",
+    "google-cloud-storage>=3.13.1",
     "ipykernel>=7.3.0",
     "openai>=2.53.0",
     "python-dotenv>=1.2.2",
